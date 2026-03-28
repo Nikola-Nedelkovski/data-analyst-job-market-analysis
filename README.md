@@ -4,9 +4,9 @@
 Analysis of 61,953 real data analyst job postings scraped from Google Jobs (USA) to identify the most in-demand skills, salary trends, and hiring patterns.
 
 ## Tools Used
-- **PostgreSQL** — database storage and management
-- **SQL** — data cleaning and analysis
-- **Power BI** — dashboard and visualizations
+- **PostgreSQL** - database storage and management
+- **SQL** - data cleaning and analysis
+- **Power BI** - dashboard and visualizations
 
 ## Dataset
 - Source: [Luke Barousse - Data Analyst Jobs (Kaggle)](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search)
